@@ -5,7 +5,7 @@
 Access the source code here [non point and clik ](https://github.com/DoubekSeth/NonPointAndClick) <br>
 
 ## In Game Screen Shots
-![sword](https://github.com/vinchang920/Portfolio2018/blob/master/sword.png =100)
+![sword](https://github.com/vinchang920/Portfolio2018/blob/master/sword.png =100x50)
 ![chest](https://github.com/vinchang920/Portfolio2018/blob/master/chest.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
