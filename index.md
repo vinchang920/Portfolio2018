@@ -11,7 +11,10 @@ Access the source code here [non point and clik ](https://github.com/DoubekSeth/
 <img src="https://github.com/vinchang920/Portfolio2018/blob/master/chest.png" width"250" height="100" /> 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Calculator
+Fully working calculator programmed in processing with tons of uses and fuctions. <br>
+
+<img src="https://github.com/vinchang920/calculator/blob/master/calcscreenshot.png" width="50" height="250" />
 
 ### About
 Vincent Chang
