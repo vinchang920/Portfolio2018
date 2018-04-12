@@ -7,7 +7,7 @@
 Access the source code here [non point and clik ](https://github.com/DoubekSeth/NonPointAndClick) <br>
 
 ### Screen Shots
-![alt text]("https://github.com/vinchang920/Portfolio2018/blob/master/sword.png")
+![alt text](https://github.com/vinchang920/Portfolio2018/blob/master/sword.png "Logo Title Text 1")
 
 
 
