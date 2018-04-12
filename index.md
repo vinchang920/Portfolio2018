@@ -23,7 +23,10 @@ Access the sourcecode here [calcsrc](https://github.com/vinchang920/calculator).
 Fully working converter with amazing art and beautiful graphics. <br>
 Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/converter/src) to the source code written in Java/processing.
 
-### 
+### Inches to centimeter conversion
+<img src="https://github.com/vinchang920/Portfolio2018/blob/master/conversion.png" width="400" height="300" />
+fully working conversion app coded in java/processing that is easy and intuitive to use.
+Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/conversion/src)
 
 ### About
 Vincent Chang
