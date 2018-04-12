@@ -1,1 +1,35 @@
 
+void setup () {
+  text("Inches to Centimeters Converter | By: Vincent Chang", 10, 20);
+  text("Instructions: Move mouse to desired value on the reference line", 10, 40);
+  size(400, 300);
+}
+
+void draw() {
+  background(0);
+  drawRef();
+  textSize(11);
+  text("Inches: "+mouseX, 10, 20);
+  text("Cent: "+iConverter(mouseX), 10, 30);
+  rect(0,40, mouseX, 10);
+}
+
+void drawRef() {
+  stroke(255);
+  line(0, 55, width, 55);
+  for (int i=0; i<width; i+=20) {
+    textSize(8);
+    text(i, i, 80);
+    line(i, 50, i, 60);
+  }
+}
+
+float iConverter (float val) {
+  val = val*2.54;
+  return val;
+}
+
+float cConverter (float val) {
+  val = val/2.54;
+  return val;
+}
