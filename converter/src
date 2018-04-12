@@ -1,1 +1,105 @@
+void setup() {
+  size(600, 800);
+}
+void draw() {
 
+  //Background Setup
+  background(#5F5D1A);
+  textSize(11);
+  fill(255);
+
+  //title
+  textSize(20);
+  text("Miles to Kilometers Converter", 180, 40);
+  text("By: Vincent Chang | 2017", 200, 60);
+
+  //instructions
+  textSize(16);
+  text("Instructions:", 10, 100);
+  textSize(15);
+  text(" - position mouse pointer along reference line to move truck to desired value", 10, 120);
+  text(" - allign back of truck with desired value of miles/ kilometers along ref. bar.", 10, 140);
+  text(" - conversion will be diplayed beneath the reference bar", 10, 160);
+  text(" - Red truck represents miles ", 10, 180);
+  text(" - Green truck represents kilometers ", 10, 200);
+  
+  //Conversion Title
+  fill(#24EADF);
+  textSize(18);
+  text("Miles to Kilometers Converter: ", 10, 300 );
+
+  //unit headers
+  textSize(11);
+  fill(255);
+  text("Distance in Miles: "+ mouseX, 10, 350);
+  text("Distance in Kilometers: "+mConverter(mouseX), 10, 450);
+
+  drawRef();
+  //truck
+  stroke(255);
+  fill(255);
+  rect(mouseX, 375, 40, 20);
+  fill(255, 0, 0);
+  rect(mouseX+40, 380, 20, 20);
+  fill(0);
+  ellipse(mouseX+10, 400, 10, 10);
+  ellipse(mouseX+42, 400, 10, 10);
+  fill(#24EADF);
+  rect(mouseX+43, 383, 10, 8);
+
+  drawSecond();
+  //title
+  textSize(18);
+  text("Kilometers to Miles Converter", 10, 500);
+  
+  //Unit Headers
+  textSize(11);
+  fill(255);
+  text("Distance in Kilometers: "+ mouseX, 10, 550);
+  text("Distance in Miles: " +kConverter(mouseX), 10, 650);
+
+  //truck
+  stroke(255);
+  fill(255);
+  rect(mouseX, 570, 40, 20);
+  fill(0, 200, 0);
+  rect(mouseX+40, 575, 20, 20);
+  fill(0);
+  ellipse(mouseX+10, 595, 10, 10);
+  ellipse(mouseX+42, 595, 10, 10);
+  fill(#24EADF);
+  rect(mouseX+43, 578, 10, 8);
+}
+
+void drawRef() {
+  stroke(255);
+  line(0, 380, width, 380);
+  for (int i=0; i<width; i+=20) {
+    textSize(8);
+    fill(#26E0D5);
+    text(i, i, 415);
+    line(i, 370, i, 390);
+  }
+}
+
+void drawSecond() {
+  stroke(255);
+  line(0, 580, width, 580);
+  for (int i =0; i< width; i+=20) {
+    textSize(8);
+    fill(#26E0D5);
+    text(i, i, 615);
+    line(i, 570, i, 590);
+  }
+}
+
+
+float mConverter(float val) {
+  val = val*1.60934;
+  return val;
+}
+
+float kConverter(float val) {
+  val = val*.621371;
+  return val;
+}
