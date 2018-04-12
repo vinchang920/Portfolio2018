@@ -28,6 +28,8 @@ Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/conve
 fully working conversion app coded in java/processing that is easy and intuitive to use.
 Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/conversion/src)
 
+### Celcius to Fahrenheit Converter
+Here' an easy and intuitive tempurature converter coded in java/processing. A link to the sourcecode can be found [here](https://github.com/vinchang920/Portfolio2018/blob/master/tempconverter/src)
 ### About
 Vincent Chang
 [contact](vincchan9510@granitesd.org)
