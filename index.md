@@ -20,7 +20,7 @@ Access the sourcecode here [calcsrc](https://github.com/vinchang920/calculator).
 ### Miles to kilometers converter
 <img src="https://vinchang920.github.io/Portfolio2018/converter.png" width="400" height="500" />
 
-Fully working converter with amazing art and beautiful graphics. <br>
+Fully working converter with amazing art and beautiful graphics.
 Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/converter/src) to the source code written in Java/processing.
 
 ### Inches to centimeter conversion
