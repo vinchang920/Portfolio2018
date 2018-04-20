@@ -30,8 +30,7 @@ Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/conve
 
 ### Celcius to Fahrenheit Converter
 <img src="https://vinchang920.github.io/Portfolio2018/tempconverter.png" width="400" height="300" />
-Here's an easy and intuitive tempurature converter coded in java/processing. A link to the sourcecode can be found 
-[here](https://github.com/vinchang920/Portfolio2018/blob/master/tempconverter/src)
+Here's an easy and intuitive tempurature converter coded in java/processing. A link to the sourcecode can be found [here](https://github.com/vinchang920/Portfolio2018/blob/master/tempconverter/src "link")
 
 ### Etcha Sketch
 THis is a fully functional Etcha Sketch programmed in processing/java. Use the arrow keys to draw your creation!
