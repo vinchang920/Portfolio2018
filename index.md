@@ -18,7 +18,7 @@ Access the sourcecode here [calcsrc](https://github.com/vinchang920/calculator).
 <img src="https://vinchang920.github.io/calculator/calcscreenshot.png" width="130" height="250" />
 
 ### Miles to kilometers converter
-<img src="https://github.com/vinchang920/Portfolio2018/blob/master/converter.png" width="400" height="500" />
+<img src="https://vinchang920.github.io/Portfolio2018/converter.png" width="400" height="500" />
 
 Fully working converter with amazing art and beautiful graphics. <br>
 Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/converter/src) to the source code written in Java/processing.
