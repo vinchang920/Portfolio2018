@@ -15,7 +15,7 @@ Access the source code here [non point and clik ](https://github.com/DoubekSeth/
 Fully working calculator programmed in processing with tons of uses and fuctions. <br>
 Access the sourcecode here [calcsrc](https://github.com/vinchang920/calculator).
 
-<img src="https://github.com/vinchang920/calculator/blob/master/calcscreenshot.png" width="130" height="250" />
+<img src="https://vinchang920.github.io/calculator/calcscreenshot.png" width="130" height="250" />
 
 ### Miles to kilometers converter
 <img src="https://github.com/vinchang920/Portfolio2018/blob/master/converter.png" width="400" height="500" />
