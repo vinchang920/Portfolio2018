@@ -9,6 +9,8 @@ Access the source code here [non point and clik ](https://github.com/DoubekSeth/
 ### Screen Shots
 ![alt text](https://vinchang920.github.io/Portfolio2018/sword.png "Logo Title Text 1")
 
+<img src="https://vinchang920.github.io/Portfolio2018/sketch.png" width"400" height="400" />
+
 
 ### Calculator
 Fully working calculator programmed in processing with tons of uses and fuctions. <br>
@@ -36,7 +38,7 @@ found [here](https://github.com/vinchang920/Portfolio2018/blob/master/tempconver
 
 ### Etcha Sketch
 
-<img src="https://vinchang920.github.io/Portfolio2018/sketch.png" width"400" height="400" />
+
 
 THis is a fully functional Etcha Sketch programmed in processing/java. Use the arrow keys to draw your creation!
 link [here](https://github.com/vinchang920/Portfolio2018/blob/master/etch/src)
