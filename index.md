@@ -32,10 +32,12 @@ Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/conve
 <img src="https://vinchang920.github.io/Portfolio2018/tempconverter.png" width="400" height="300" />
 Here's an easy and intuitive tempurature converter coded in java/processing. A link to the sourcecode can be found 
 [here](https://github.com/vinchang920/Portfolio2018/blob/master/tempconverter/src)
+
 ### Etcha Sketch
 THis is a fully functional Etcha Sketch programmed in processing/java. Use the arrow keys to draw your creation!
 link [here](
 <img src="https://vinchang920.github.io/Portfolio2018/sketch.png" width"400" height="400" />
+
 ### About
 Vincent Chang
 [contact](vincchan9510@granitesd.org)
