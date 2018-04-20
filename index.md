@@ -36,7 +36,7 @@ Here's an easy and intuitive tempurature converter coded in java/processing. A l
 found [here](https://github.com/vinchang920/Portfolio2018/blob/master/tempconverter/src/ "link")
 
 ### Etcha Sketch
-<img src="https://github.com/vinchang920/Portfolio2018/blob/master/sketch.png" width="400" />
+<img src="https://vinchang920.github.io/Portfolio2018/sketch.png" width="400" />
 
 
 THis is a fully functional Etcha Sketch programmed in processing/java. Use the arrow keys to draw your creation!
