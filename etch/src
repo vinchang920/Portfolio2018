@@ -1,1 +1,121 @@
+int x, y;
 
+void setup() {
+  size(400, 400);
+  frameRate(10);
+  // Set start coords
+  x = 0;
+  y = 0;
+}
+
+void draw() {
+  fill(255);
+  //drawName();
+  //noLoop();
+}
+
+// Algorithm for your first name
+void drawName() {
+  
+  //C
+  moveRight(1);
+  moveDown(1);
+  moveRight(5);
+  moveLeft(5);
+  moveDown(6);
+  moveRight(5);
+
+  //H
+  moveDown(1);
+  moveRight(1);
+  moveUp(6);
+  moveDown(3);
+  moveRight(3);
+  moveUp(3);
+  moveDown(6);
+  moveRight(1);
+  //A
+  moveUp(6);
+  moveDown(3);
+  moveRight(3);
+  moveUp(3);
+  moveLeft(3);
+  moveRight(3);
+  moveDown(6);
+
+  //N
+  moveRight(1);
+  moveUp(6);
+  moveRight(3);
+  moveDown(6);
+  moveRight(1);
+
+  //G
+  moveUp(6);
+  moveRight(4);
+  moveLeft(4);
+  moveDown(6);
+  moveRight(4);
+  moveUp(3);
+  moveLeft(3);
+}
+
+// Method to draw right line
+void moveRight(int rep) {
+  for (int i=0; i<rep*10; i++) {
+    point(x+i, y);
+  }
+  x=x+(10*rep);
+}
+
+void moveDown(int rep) {
+  for (int i=0; i<rep*10; i++) {
+    point(x, y+i);
+  }
+  y=y+(10*rep);
+}
+
+void moveLeft(int rep) {
+  for (int i=0; i<rep*10; i++) {
+    point(x-i, y);
+  }
+  x=x-(10*rep);
+}
+void moveUp(int rep) {
+  for (int i=0; i<rep*10; i++) {
+    point(x, y-i);
+  }
+  y=y-(10*rep);
+}
+
+void rightUp(int rep) {
+  for (int i=0; i<rep*10; i++) {
+    point(x+i, y-i);
+  }
+  x=x-(10*rep);
+  y=y-(10*rep);
+}
+
+void rightDown(int rep) {
+  for (int i=0; i<rep*10; i++) {
+    point(x+i, y+i);
+  }
+  y=y+(10*rep);
+  x=x+(10*rep);
+}
+
+void keyPressed() {
+  if (key == CODED) {
+    if (keyCode == RIGHT) {
+      moveRight(1);
+    } if (keyCode == DOWN) {
+      moveDown(1);
+    }
+    if (keyCode == UP) {
+      moveUp(1);
+    }
+    if (keyCode == LEFT) {
+      moveLeft(1);
+    }
+  }
+}
