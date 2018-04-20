@@ -26,7 +26,8 @@ Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/conve
 ### Inches to centimeter conversion
 <img src="https://vinchang920.github.io/Portfolio2018/conversion.png" width="400" height="300" />
 fully working conversion app coded in java/processing that is easy and intuitive to use. <br>
-Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/conversion/src)
+Here's the 
+[link](https://github.com/vinchang920/Portfolio2018/blob/master/conversion/src)
 
 ### Celcius to Fahrenheit Converter
 <img src="https://vinchang920.github.io/Portfolio2018/tempconverter.png" width="400" height="300" />
