@@ -24,16 +24,16 @@ Fully working converter with amazing art and beautiful graphics. <br>
 Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/converter/src) to the source code written in Java/processing.
 
 ### Inches to centimeter conversion
-<img src="https://github.com/vinchang920/Portfolio2018/blob/master/conversion.png" width="400" height="300" />
+<img src="https://vinchang920.github.io/Portfolio2018/conversion.png" width="400" height="300" />
 fully working conversion app coded in java/processing that is easy and intuitive to use.
 Here's the [link](https://github.com/vinchang920/Portfolio2018/blob/master/conversion/src)
 
 ### Celcius to Fahrenheit Converter
-<img src="https://github.com/vinchang920/Portfolio2018/blob/master/tempconverter.png" width="400" height="300" />
+<img src="https://vinchang920.github.io/Portfolio2018/tempconverter.png" width="400" height="300" />
 Here's an easy and intuitive tempurature converter coded in java/processing. A link to the sourcecode can be found [here](https://github.com/vinchang920/Portfolio2018/blob/master/tempconverter/src)
 ### Etcha Sketch
 THis is a fully functional Etcha Sketch programmed in processing/java. Use the arrow keys to draw your creation!
-<img src="https://github.com/vinchang920/Portfolio2018/blob/master/sketch.png" />
+<img src="https://vinchang920.github.io/Portfolio2018/sketch.png" />
 ### About
 Vincent Chang
 [contact](vincchan9510@granitesd.org)
