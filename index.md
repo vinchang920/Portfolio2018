@@ -5,7 +5,7 @@ Access the sourcecode [here](https://github.com/vinchang920/realgame) <br>
 
 <img src="https://vinchang920.github.io/Portfolio2018/stars.png" width="600" height="650"/> <br>
 
-<img src="https://vinchang920.github.io/Portfolio2018/lasers.jpg" width="600" height="650"/>
+<img src="https://vinchang920.github.io/Portfolio2018/lasers.png" width="600" height="650"/>
 
 
 ### N0n-Point-and-Clik
