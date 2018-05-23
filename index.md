@@ -3,12 +3,9 @@
 Try out this amazing space game written in processing/java. With beautiful graphics and a cool looking starship, fly through space feeling like a boss when firing your sicky little laser beams(shoutout to Zack Greenburg for spending several class periods helping me get these to work). Dynamic scenery including a asteroid field and a starry background bring color and immersion to this classsic space shooter that is sure to please. <br>
 Access the sourcecode [here](https://github.com/vinchang920/realgame) <br>
 
-<img src="https://vinchang920.github.io/Portfolio2018/stars.png" width="600" height="650"/>
+<img src="https://vinchang920.github.io/Portfolio2018/stars.png" width="600" height="650"/> <br>
 
 <img src="https://vinchang920.github.io/Porfolio2018/Cometfield.png" width="600" height="650"/>
-
-
-
 
 
 ### N0n-Point-and-Clik
