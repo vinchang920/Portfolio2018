@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Main {
+  public static void main(String[] args){
+   boolean appOn = true;
+
+   System.out.println("Welcome to World of tanks!");
+ 
+   Scanner sc = new Scanner(System.in);
+   while(appOn){
+    float i, x, y, l, o;
+    System.out.println("Ounces of fluids consumed by your tank per day:");
+    i = sc.nextFloat();
+     System.out.println("Expected lifespan of tank:(lifespan)");
+     l = sc.nextFloat();
+      System.out.println("Your tank will consume:");
+      System.out.println(i/128*365*l/11000 + " truckloads of fluid");
+      System.out.println("You died. Play again (y/n)?");
+     if(sc.next().equals("n")) break;
+    
+      }
+  
+    }
+
+ }
