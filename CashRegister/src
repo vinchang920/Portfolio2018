@@ -1,0 +1,53 @@
+//This code helps total up purchases made. The number entered will be added to the total to return the total.
+
+import java.util.Scanner; 
+class CashRegister 
+{ 
+  public static final double QUARTER_VALUE = 0.25; 
+  public static final double DIME_VALUE = 0.1; 
+  public static final double NICKEL_VALUE = 0.05; 
+  public static final double PENNY_VALUE = 0.01; 
+
+  private static int PurchaseCount; 
+
+  private static double purchase; 
+  private static double payment; 
+
+
+  public static void resetPurchaseCount(){ 
+  PurchaseCount = 0; 
+  } 
+    public static int getPurchseCount(){ 
+
+    return PurchaseCount; 
+  } 
+
+  public CashRegister() 
+  { 
+    resetPurchaseCount(); 
+    purchase = 0; 
+    payment = 0; 
+  } 
+
+  public static void recordPurchase(double amount) 
+  { 
+      double newTotal = purchase + amount; 
+      purchase = newTotal; 
+    } 
+    public static void enterPayment(int dollars, int quarters, 
+    int dimes, int nickels, int pennies) 
+    { 
+    payment = dollars + quarters * QUARTER_VALUE + dimes * DIME_VALUE 
+    + nickels * NICKEL_VALUE + pennies * PENNY_VALUE; 
+
+    PurchaseCount += 1; 
+    } 
+
+    public double giveChange() 
+    { 
+      double change = payment - purchase; 
+      purchase = 0; 
+      payment = 0; 
+      return change; 
+    }
+}
