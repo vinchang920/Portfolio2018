@@ -1,0 +1,35 @@
+
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    boolean calcOn = true;
+
+    System.out.println("Welcome to the 'Journey to Hogwarts!''");
+
+    Scanner sc = new Scanner(System.in);
+    while(calcOn){
+      float x, y, z, a, b, c;
+      System.out.println("Whats the price of a one way train ticket to Hogwarts?");
+      x = sc.nextFloat();
+      System.out.println("How long is the distance if you plan to drive?");
+      y = sc.nextFloat();
+      System.out.println("How many mpg does your Nimbus 2018 have?");
+      z = sc.nextFloat();
+      a = x*2;
+      b = y/z;
+      c = 4*b + 1/2*y;
+      System.out.println("Your trip riding the Hogwarts express  would cost:" + a);
+
+      System.out.println("If you fly your broom to hogwarts it would cost:" + c);
+
+      System.out.println("Do you want to make another calculation? (y/n)");
+      if (sc.next().equals("n")) break;
+
+
+
+       
+    }
+
+  }
+}
