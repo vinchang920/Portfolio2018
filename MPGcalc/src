@@ -1,0 +1,21 @@
+import java.util.Scanner;
+class Main {
+  public static void main(String[] args) {
+    System.out.println("Welcome to buy a hybrid save the world");
+    Scanner sc = new Scanner(System.in);
+    float x, y, z, a, b, c;
+    System.out.println("How expensive is the car you want to buy?");
+    x = sc.nextFloat();
+    System.out.println("How many miles do you drive annually on average?");
+    y = sc.nextFloat();
+    System.out.println("MPG of new car:");
+    z = sc.nextFloat();
+    System.out.println("price per gallon?");
+    a = sc.nextFloat();
+    System.out.println("what is the resale value of your car?");
+    b = sc.nextFloat();
+    c = (x + (y/z)* a) - b;
+    System.out.println("Your total cost is:" + c);
+
+   }
+}
