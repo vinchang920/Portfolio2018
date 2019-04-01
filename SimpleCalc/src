@@ -1,0 +1,59 @@
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+
+    System.out.println("Welcome to the Console Calculator!\n");
+    
+    boolean Continue = true;
+    Scanner scan = new Scanner(System.in);
+
+    while(Continue)
+    {
+      float a;
+      float b;
+      String Operation;
+
+      System.out.print("Input the first number you would like to compute:");
+      a = scan.nextFloat();
+      System.out.print("What operator would you like to use?");
+      Operation = scan.next();
+
+      System.out.print("Inpute the second number you would like to compute:");
+      b = scan.nextFloat();
+
+      if(Operation.charAt(0) == '+')
+      {
+        float sum = a + b;
+        System.out.println("The answer is" + " " + sum);
+      }
+      else if(Operation.charAt(0) == '-')
+      {
+        float difference = a - b;
+        System.out.println("The answer is" + " " + difference);
+      }
+      else if(Operation.charAt(0) == '*')
+      {
+        float product = a * b;
+        System.out.println("The answer is" + " " + product);
+      }
+      else if(Operation.charAt(0) == '/')
+      {
+        float quotient = a / b;
+        System.out.println("The answer is" + " " + quotient);
+      }
+      else
+      {
+        System.out.println("Calculation cannot be computed");
+      }
+      
+      System.out.print("Would you like to continue y/n?");
+      String togo = scan.next();
+
+      if (togo.charAt(0) == 'y') Continue = true;
+      else Continue = false;
+    }  
+
+    scan.close();
+  }
+}
