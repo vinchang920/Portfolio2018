@@ -1,3 +1,35 @@
+## Programming Portfolio 2019
+Tilled with small programming projects to show my amazing programming skills. Each application showcases my efficient and technical approach, displaying my analytical mind and eye for simplistic elegance  :DDDDDDDDDDDDDDDDDDDDDD
+### Simple Calculator
+My year 2 approach of the bloated and convuluted calculator code from year 1. Code now cut down into concise and readable portions while maintaining similar functionality
+ [here](https://github.com/vinchang920/Portfolio2018/blob/master/SimpleCalc/src/ "link")
+### Trip Planner
+Using scanner this handy little app calculates the cost of a trip taking in MPG and cost per gallon.
+ [here](https://github.com/vinchang920/Portfolio2018/blob/master/tripPlanner/src/ "link")
+
+### Clock 
+Amazing clock application that creates a clock from a clock class. AWESOME!!!!!!!!!!!!! <br>
+ [here](https://github.com/vinchang920/Portfolio2018/blob/master/Clock/src/ "link") <br>
+ 
+ ### CashRegister
+ Another deceptively simple application that creates a custom cashregister from a class. WOWZA!
+  [here](https://github.com/vinchang920/Portfolio2018/blob/master/CashRegister/src/ "link")
+  
+  ### WORLD OF TANKS
+  
+  Amazing triple A title that uses scanner
+   [here](https://github.com/vinchang920/Portfolio2018/blob/master/FluidCalculator/src/ "link")
+   
+   
+
+
+
+
+
+
+
+
+
 ## Programming Portfolio 2018
 ### Space Game 
 Try out this amazing space game written in processing/java. With beautiful graphics and a cool looking starship, fly through space feeling like a boss when firing your sicky little laser beams(shoutout to Zack Greenburg for spending several class periods helping me get these to work). Dynamic scenery including a asteroid field and a starry background bring color and immersion to this classsic space shooter that is sure to please. <br>
