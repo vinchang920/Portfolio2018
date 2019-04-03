@@ -1,5 +1,5 @@
 ## Programming Portfolio 2019
-Tilled with small programming projects to show my amazing programming skills. Each application showcases my efficient and technical approach, displaying my analytical mind and eye for simplistic elegance  :DDDDDDDDDDDDDDDDDDDDDD
+New Portfolio filled with small programming projects to show my amazing programming skills. Each application showcases my efficient and technical approach, displaying my analytical mind and eye for simplistic elegance  :DDDDDDDDDDDDDDDDDDDDDD
 ### Simple Calculator
 My year 2 approach of the bloated and convuluted calculator code from year 1. Code now cut down into concise and readable portions while maintaining similar functionality
  [here](https://github.com/vinchang920/Portfolio2018/blob/master/SimpleCalc/src/ "link")
