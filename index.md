@@ -1,11 +1,24 @@
 ## Programming Portfolio 2019
 New Portfolio filled with small programming projects to show my amazing programming skills. Each application showcases my efficient and technical approach, displaying my analytical mind and eye for simplistic elegance  :DDDDDDDDDDDDDDDDDDDDDD
 ### Programmin IA: Cabinet Creation App
-A fully functional Cabinet Order app that allows the user to create a project, add cabinets, and calculate costs. All projects are saved to the user's computer and are accessibe through the app or any text editor. Open the project again to edit customer details or even add more cabinets to the order.
-<img src="https://vinchang920.github.io/Portfolio2018/p5.png" width="400" height="300" />
+A fully functional Cabinet Order app that allows the user to create a project, add cabinets, and calculate costs. All projects are saved to the user's computer and are accessibe through the app or any text editor. Open the project again to edit customer details or even add more cabinets to the order. <br>
+Create your Project here
+<img src="https://vinchang920.github.io/Portfolio2018/p5.png" width="400" height="300" /> <br>
+
+Add customer details and information <br>
+<img src="https://vinchang920.github.io/Portfolio2018/p4.png" width="400" height="300" /> <br>
+
+Create Your Cabinets here!<br>
+<img src="https://vinchang920.github.io/Portfolio2018/p3.png" width="400" height="300" /> <br>
+
+Look at your current order and inventory <br>
+<img src="https://vinchang920.github.io/Portfolio2018/p2.png" width="400" height="300" /> <br>
+
+Calculations here: <br>
+<img src="https://vinchang920.github.io/Portfolio2018/p5.png" width="400" height="300" /> <br>
 
 ### Simple Calculator
-My year 2 approach of the bloated and convuluted calculator code from year 1. Code now cut down into concise and readable portions while maintaining similar functionality
+My year 2 approach of the bloated and convoluted calculator code from year 1. Code now cut down into concise and readable portions while maintaining similar functionality
  [here](https://github.com/vinchang920/Portfolio2018/blob/master/SimpleCalc/src/ "link")
 ### Trip Planner
 Using scanner this handy little app calculates the cost of a trip taking in MPG and cost per gallon.
