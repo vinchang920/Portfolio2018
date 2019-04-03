@@ -1,5 +1,9 @@
 ## Programming Portfolio 2019
 New Portfolio filled with small programming projects to show my amazing programming skills. Each application showcases my efficient and technical approach, displaying my analytical mind and eye for simplistic elegance  :DDDDDDDDDDDDDDDDDDDDDD
+### Programmin IA: Cabinet Creation App
+A fully functional Cabinet Order app that allows the user to create a project, add cabinets, and calculate costs. All projects are saved to the user's computer and are accessibe through the app or any text editor. Open the project again to edit customer details or even add more cabinets to the order.
+<img src="https://vinchang920.github.io/Portfolio2018/p5.png" width="400" height="300" />
+
 ### Simple Calculator
 My year 2 approach of the bloated and convuluted calculator code from year 1. Code now cut down into concise and readable portions while maintaining similar functionality
  [here](https://github.com/vinchang920/Portfolio2018/blob/master/SimpleCalc/src/ "link")
@@ -11,20 +15,15 @@ Using scanner this handy little app calculates the cost of a trip taking in MPG 
 Amazing clock application that creates a clock from a clock class. AWESOME!!!!!!!!!!!!! <br>
  [here](https://github.com/vinchang920/Portfolio2018/blob/master/Clock/src/ "link") <br>
  
- ### CashRegister
+### CashRegister
  Another deceptively simple application that creates a custom cashregister from a class. WOWZA!
   [here](https://github.com/vinchang920/Portfolio2018/blob/master/CashRegister/src/ "link")
-  
-  ### WORLD OF TANKS
-  
-  Amazing triple A title that uses scanner
+
+### WORLD OF TANKS
+Amazing triple A title that uses scanner
    [here](https://github.com/vinchang920/Portfolio2018/blob/master/FluidCalculator/src/ "link")
    
    
-
-
-
-
 
 
 
